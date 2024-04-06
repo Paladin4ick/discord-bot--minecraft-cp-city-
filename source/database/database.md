@@ -1,0 +1,1 @@
+<h3> The <code>`users.db`</code> file stores information about users and logs each new user into it</h3>

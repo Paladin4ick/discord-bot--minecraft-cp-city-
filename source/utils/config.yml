@@ -1,0 +1,18 @@
+# channels
+info_channel: 1204376004106260520 # data channel id
+news_channel: 1204499088985428088 # news channel id
+nm_channel: 1218990749018755082 # news maker channel id
+
+
+chat_channel: 1202846043310526508 # chat channel id
+picture_channel: 1204147704473849897 # picture channel id
+commands_channel: 1204146713619865663 # commands channel id
+
+logs_channel: 1204147786011123732 # logs channel id
+qts_channel: 1204148048653975613 # ankets channel id
+
+# roles
+member_role: 1204768519330332682  # member role id
+quest_role: 1204151883896193024 # quest role id
+moder_role: 1224439095808491560 # moderator role id
+adm_role: 1204771009237098576 # administrator role id
